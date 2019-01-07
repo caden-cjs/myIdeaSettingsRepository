@@ -1,0 +1,34 @@
+<keymap version="1" name="Eclipse copy" parent="Eclipse">
+  <action id="$EditorTranslateAction">
+    <keyboard-shortcut first-keystroke="alt 2" />
+  </action>
+  <action id="$TranslateAndReplaceAction">
+    <keyboard-shortcut first-keystroke="alt 3" />
+  </action>
+  <action id="ActivateFavoritesToolWindow" />
+  <action id="ActivateFindToolWindow" />
+  <action id="AddToFavoritesPopup" />
+  <action id="ClassNameCompletion">
+    <keyboard-shortcut first-keystroke="ctrl alt space" />
+    <keyboard-shortcut first-keystroke="alt slash" />
+  </action>
+  <action id="Console.TableResult.PreviousPage" />
+  <action id="Editor EditorTranslateAction">
+    <keyboard-shortcut first-keystroke="alt 2" />
+  </action>
+  <action id="Editor TranslateAndReplaceAction">
+    <keyboard-shortcut first-keystroke="alt 3" />
+  </action>
+  <action id="EditorDuplicate">
+    <keyboard-shortcut first-keystroke="ctrl alt up" />
+  </action>
+  <action id="FileChooser.TogglePathShowing" />
+  <action id="HippieCompletion" />
+  <action id="ParameterInfo">
+    <keyboard-shortcut first-keystroke="ctrl p" />
+  </action>
+  <action id="Print" />
+  <action id="ReplaceInPath">
+    <keyboard-shortcut first-keystroke="shift alt f" />
+  </action>
+</keymap>

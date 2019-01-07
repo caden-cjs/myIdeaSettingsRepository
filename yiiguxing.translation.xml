@@ -1,0 +1,75 @@
+<application>
+  <component name="AppStorage">
+    <histories>
+      <item value="Found offline lease from local storage.. executing JRebel with offline licensing." />
+      <item value="redirect" />
+      <item value="权限失败" />
+      <item value="OPERATING UNIT" />
+      <item value="enter Result Branch" />
+      <item value="Precaution Msg Users Mapper" />
+      <item value="QM PRECAUTION MSG USERS" />
+      <item value="整改单位" />
+      <item value="Correct" />
+      <item value="find Correct Unit" />
+      <item value="head Office" />
+      <item value="Headquarters" />
+      <item value="总部" />
+      <item value="General" />
+      <item value="总部创建" />
+      <item value="FM ANNOUNCEMENT" />
+      <item value="检查组" />
+      <item value="组员" />
+      <item value="检查组组员" />
+      <item value="SOURCE PARAM" />
+      <item value="parame" />
+      <item value="param" />
+      <item value="PARAM" />
+      <item value="pending check branch" />
+      <item value="权限查询" />
+      <item value="Caused by: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'dataSource' defined in URL [file:/D:/WorkSpaces/Idea/SEMS1/source_mvc/SEMS1/target/SEMS1-1.0.0/WEB-INF/classes/applicationContext.xml]: Invocation of init method failed; nested exception is java.sql.SQLException: ORA-28000: the account is locked" />
+      <item value="押解" />
+      <item value="person Total" />
+      <item value="CHECK DAILY FLIGHT INFORMATION" />
+      <item value="查询日报航班信息" />
+      <item value="Gun" />
+      <item value="zlh Pg Gun Total" />
+      <item value="zlh Passenger Total" />
+      <item value="权限" />
+      <item value="competence" />
+      <item value="审批" />
+      <item value="一审" />
+      <item value="issue" />
+      <item value="预览" />
+      <item value="年" />
+      <item value="区间日期" />
+      <item value="part A_I" />
+      <item value="航班" />
+      <item value="当前单位" />
+      <item value="query当前单位" />
+      <item value="do签收" />
+      <item value="反馈方法" />
+      <item value="附件" />
+      <item value="反馈" />
+      <item value="签收记录" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="562" />
+        <entry key="ENGLISH" value="563" />
+        <entry key="BULGARIAN" value="2" />
+        <entry key="PORTUGUESE" value="2" />
+        <entry key="JAPANESE" value="1" />
+        <entry key="GREEK" value="1" />
+      </map>
+    </option>
+  </component>
+  <component name="Settings">
+    <option name="ignoreRegExp" value="" />
+    <option name="youdaoTranslateSettings">
+      <youdao-translate>
+        <option name="appId" value="155482e5c722f5b7" />
+        <option name="appKeyConfigured" value="true" />
+      </youdao-translate>
+    </option>
+  </component>
+</application>
