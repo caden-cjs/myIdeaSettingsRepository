@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="is Debug Enabled" />
+      <item value="get Query String" />
       <item value="session Destroyed" />
       <item value="Abstract Method Error" />
       <item value="Connect" />
@@ -49,13 +51,11 @@
       <item value="part A_I" />
       <item value="航班" />
       <item value="当前单位" />
-      <item value="query当前单位" />
-      <item value="do签收" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="566" />
-        <entry key="ENGLISH" value="567" />
+        <entry key="CHINESE" value="568" />
+        <entry key="ENGLISH" value="569" />
         <entry key="BULGARIAN" value="2" />
         <entry key="PORTUGUESE" value="2" />
         <entry key="JAPANESE" value="1" />
