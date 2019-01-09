@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="附件" />
+      <item value="verification" />
+      <item value="验证" />
       <item value="nested exception is org.apache.ibatis.builder.BuilderException: The expression 'userId' evaluated to a null value." />
       <item value="nested exception is org.apache.ibatis.builder.BuilderException: The expression 'userId' evaluated to" />
       <item value="ested exception is org.apache.ibatis.builder.BuilderException: The expression 'userId' evaluated to a null value." />
@@ -48,14 +51,11 @@
       <item value="CHECK DAILY FLIGHT INFORMATION" />
       <item value="查询日报航班信息" />
       <item value="Gun" />
-      <item value="zlh Pg Gun Total" />
-      <item value="zlh Passenger Total" />
-      <item value="competence" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="579" />
-        <entry key="ENGLISH" value="580" />
+        <entry key="CHINESE" value="581" />
+        <entry key="ENGLISH" value="581" />
         <entry key="BULGARIAN" value="2" />
         <entry key="PORTUGUESE" value="2" />
         <entry key="JAPANESE" value="1" />
