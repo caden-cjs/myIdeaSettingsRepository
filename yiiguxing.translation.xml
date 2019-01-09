@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="The expression 'qmCheckMethodS' evaluated to a null value." />
       <item value="assignable Types" />
       <item value="org.activiti.engine.ActivitiException: Query return 2 results instead of max 1" />
       <item value="Cause: java.lang.NumberFormatException: For input string: &quot;Y&quot;" />
@@ -50,12 +51,11 @@
       <item value="issue" />
       <item value="预览" />
       <item value="年" />
-      <item value="区间日期" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="574" />
-        <entry key="ENGLISH" value="575" />
+        <entry key="CHINESE" value="575" />
+        <entry key="ENGLISH" value="576" />
         <entry key="BULGARIAN" value="2" />
         <entry key="PORTUGUESE" value="2" />
         <entry key="JAPANESE" value="1" />
