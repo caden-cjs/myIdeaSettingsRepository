@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="queryno Receipt" />
       <item value="并且" />
       <item value="publish并且" />
       <item value="附件" />
@@ -50,12 +51,11 @@
       <item value="Caused by: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'dataSource' defined in URL [file:/D:/WorkSpaces/Idea/SEMS1/source_mvc/SEMS1/target/SEMS1-1.0.0/WEB-INF/classes/applicationContext.xml]: Invocation of init method failed; nested exception is java.sql.SQLException: ORA-28000: the account is locked" />
       <item value="押解" />
       <item value="person Total" />
-      <item value="CHECK DAILY FLIGHT INFORMATION" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="582" />
-        <entry key="ENGLISH" value="582" />
+        <entry key="ENGLISH" value="583" />
         <entry key="BULGARIAN" value="2" />
         <entry key="PORTUGUESE" value="2" />
         <entry key="JAPANESE" value="1" />
