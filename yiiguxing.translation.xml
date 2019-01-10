@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="并且" />
+      <item value="publish并且" />
       <item value="附件" />
       <item value="verification" />
       <item value="验证" />
@@ -49,13 +51,11 @@
       <item value="押解" />
       <item value="person Total" />
       <item value="CHECK DAILY FLIGHT INFORMATION" />
-      <item value="查询日报航班信息" />
-      <item value="Gun" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="581" />
-        <entry key="ENGLISH" value="581" />
+        <entry key="CHINESE" value="582" />
+        <entry key="ENGLISH" value="582" />
         <entry key="BULGARIAN" value="2" />
         <entry key="PORTUGUESE" value="2" />
         <entry key="JAPANESE" value="1" />
