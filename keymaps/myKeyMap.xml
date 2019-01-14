@@ -1,0 +1,60 @@
+<keymap version="1" name="myKeyMap" parent="Eclipse">
+  <action id="$EditorTranslateAction">
+    <keyboard-shortcut first-keystroke="alt 2" />
+  </action>
+  <action id="$TranslateAndReplaceAction">
+    <keyboard-shortcut first-keystroke="shift ctrl x" />
+    <keyboard-shortcut first-keystroke="alt 3" />
+  </action>
+  <action id="ActivateFavoritesToolWindow" />
+  <action id="ActivateProjectToolWindow" />
+  <action id="AddToFavoritesPopup" />
+  <action id="CodeCompletion">
+    <keyboard-shortcut first-keystroke="ctrl space" />
+    <keyboard-shortcut first-keystroke="alt slash" />
+  </action>
+  <action id="Console.TableResult.EditFilterCriteria" />
+  <action id="DuplicatesForm.SendToLeft" />
+  <action id="Editor EditorTranslateAction">
+    <keyboard-shortcut first-keystroke="alt 2" />
+  </action>
+  <action id="Editor TranslateAndReplaceAction">
+    <keyboard-shortcut first-keystroke="alt 3" />
+  </action>
+  <action id="EmmetNextEditPoint" />
+  <action id="FileChooser.GotoHome" />
+  <action id="FileChooser.TogglePathShowing" />
+  <action id="FindInPath">
+    <keyboard-shortcut first-keystroke="shift alt f" />
+  </action>
+  <action id="GotoBookmark1" />
+  <action id="HippieBackwardCompletion" />
+  <action id="HippieCompletion" />
+  <action id="ParameterInfo">
+    <keyboard-shortcut first-keystroke="ctrl p" />
+  </action>
+  <action id="Print" />
+  <action id="ReformatCode">
+    <keyboard-shortcut first-keystroke="shift ctrl f" />
+  </action>
+  <action id="ReplaceInPath">
+    <keyboard-shortcut first-keystroke="shift ctrl alt f" />
+  </action>
+  <action id="Scala.ShowImplicits">
+    <keyboard-shortcut first-keystroke="shift ctrl alt equals" />
+    <keyboard-shortcut first-keystroke="shift ctrl alt add" />
+  </action>
+  <action id="ShowIntentionActions">
+    <keyboard-shortcut first-keystroke="alt enter" />
+    <keyboard-shortcut first-keystroke="shift alt j" />
+    <keyboard-shortcut first-keystroke="shift ctrl m" />
+    <keyboard-shortcut first-keystroke="ctrl 1" />
+  </action>
+  <action id="SmartTypeCompletion">
+    <keyboard-shortcut first-keystroke="shift alt space" />
+    <keyboard-shortcut first-keystroke="shift alt slash" />
+  </action>
+  <action id="Vcs.ReformatCommitMessage">
+    <keyboard-shortcut first-keystroke="ctrl alt l" />
+  </action>
+</keymap>
