@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="org.springframework.data.redis.serializer.SerializationException: Cannot deserialize; nested exception is org.springframework.core.serializer.support.SerializationFailedException: Failed to deserialize payload. Is the byte array a result of corresponding serialization for DefaultDeserializer?; nested exception is java.io.InvalidClassException: com.eastern.mujup.system.user.entity.UserT; local class incompatible: stream classdesc serialVersionUID = 8039899368627821466, local class serialVersionUID = 2883723585939036164" />
+      <item value="Cannot deserialize; nested exception is org.springframework.core.serializer.support.SerializationFailedException: Failed to deserialize payload. Is the byte array a result of corresponding serialization for DefaultDeserializer?; nested exception is java.io.InvalidClassException: com.eastern.mujup.system.user.entity.UserT; local class incompatible: stream classdesc serialVersionUID = 8039899368627821466, local class serialVersionUID = 2883723585939036164" />
+      <item value="2019-01-15 14:29:40 JRebel: Found offline lease from local storage.. executing JRebel with offline licensing." />
       <item value="java.util.Concurrent Modification Exception&#10;" />
       <item value="Concurrent Modification Exception" />
       <item value="select PK_YP_ID, FK_CHECKED_ID, YP_IMP_UNIT, YP_TIME, YP_CHECK_TYPE, YP_CHECK_CONTENT, YP_STATUS, YP_COUNT, YP_DEL_STATUS, QM_CREATE_PERSON, QM_CREATE_TIME, QM_UPDATE_PERSON, QM_UPDATE_TIME, YP_NUMBER, REMARK, t2.USR_NAME LAST_UPDATER from QM_YEAR_PLAN_T t1 left join SEMS1.QM_USER_T t2 on QM_CREATE_PERSON= t1.QM_CREATE_PERSON=t2.USR_ID where YP_DEL_STATUS='N'" />
@@ -48,14 +51,11 @@
       <item value="find Correct Unit" />
       <item value="head Office" />
       <item value="Headquarters" />
-      <item value="总部" />
-      <item value="General" />
-      <item value="总部创建" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="593" />
-        <entry key="ENGLISH" value="594" />
+        <entry key="CHINESE" value="597" />
+        <entry key="ENGLISH" value="598" />
         <entry key="BULGARIAN" value="2" />
         <entry key="PORTUGUESE" value="2" />
         <entry key="JAPANESE" value="1" />
