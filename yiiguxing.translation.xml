@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="org.springframework.web.util.NestedServletException: Handler dispatch failed; nested exception is java.lang.AbstractMethodError: com.eastern.mujup.system.organization.service.impl.OrgServiceImpl$$M$_jr_2623A26F5DD778A6_4.queryShortOrgNew(Ljava/lang/Long;Ljava/lang/Long;)Ljava/util/List; at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:978) at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:897) at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:970) at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:872)" />
+      <item value="指定" />
       <item value="org.mybatis.spring.MyBatisSystemException: nested exception is org.apache.ibatis.exceptions.PersistenceException:" />
       <item value="### The error occurred while handling results" />
       <item value="Persistence Exception" />
@@ -49,13 +51,11 @@
       <item value="Abstract Method Error" />
       <item value="Connect" />
       <item value="is Connect" />
-      <item value="Found offline lease from local storage.. executing JRebel with offline licensing." />
-      <item value="redirect" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="609" />
-        <entry key="ENGLISH" value="611" />
+        <entry key="CHINESE" value="611" />
+        <entry key="ENGLISH" value="612" />
         <entry key="BULGARIAN" value="2" />
         <entry key="PORTUGUESE" value="2" />
         <entry key="JAPANESE" value="1" />
