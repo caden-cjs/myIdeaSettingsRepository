@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Uncategorized Jms Exception" />
       <item value="group Member Name" />
       <item value="select PK_CM_ID, FK_UNIT_ID, t1.FK_CHECKED_ID, CM_NAME, CM_CH_NAME, CM_CHECK_UNIT, CM_CH_TYPE, CM_CH_BOSS, CM_CH_METHOD, CM_START_TIME, CM_END_TIME, CM_CH_ADDRESS, CM_CH_PERSON, CM_OTHERS, CM_REMARK, CM_ACCESSRTY, CM_DEL_STATUS, CM_CH_SUM, CM_FLOW, CM_DELETE_STATUS, t1.QM_CREATE_PERSON, t1.QM_CREATE_TIME, t1.QM_UPDATE_PERSON, t1.QM_UPDATE_TIME, CM_CH_STATUS, CM_CH_NUMBERING, CM_CANCEL_DESCRIPTION, FK_YP_ID, t3.DC_DESC CM_CH_METHOD_NAME, t4.DC_DESC CH_CHECK_TYPE_NAME, t5.DC_DESC STATUS_NAME, t2.ORG_NAMES ORG_NAMES, t6.YP_NUMBER YP_NUMBER, t7.ORG_NAME CHECK_UNIT_NAME, t8.CHECK_METHOD_NAMES CHECK_METHOD_NAME from QM_CHECK_MESSAGE_T t1 left join VIEW_CHECKED_ORG_NAME t2 on t1.FK_CHECKED_ID = t2.PK_CHECKED_ID left join QM_DC_CODE_T t3 on t3.DC_CODE = t1.CM_CH_METHOD and t3.TYPE_ID = 50 left join QM_DC_CODE_T t4 on t4.DC_CODE = t1.CM_CH_TYPE and t4.TYPE_ID = 45 left join QM_DC_CODE_T t5 on t1.CM_CH_STATUS = t5.DC_CODE and t5.TYPE_ID = 48 left join QM_YEAR_PLAN_T t6 on t1.FK_YP_ID = t6.PK_YP_ID left JOIN QM_ORG_T t7 on t1.CM_CHECK_UNIT = t7.ORG_ID left join VIEW_CHECK_METHOD_NAME t8 on t1.PK_CM_ID=t8.PK_CM_ID where PK_CM_ID = ? and CM_DEL_STATUS = 'N'" />
       <item value="org.springframework.data.redis.serializer.SerializationException: Cannot deserialize; nested exception is org.springframework.core.serializer.support.SerializationFailedException: Failed to deserialize payload. Is the byte array a result of corresponding serialization for DefaultDeserializer?; nested exception is java.io.InvalidClassException: com.eastern.mujup.system.user.entity.UserT; local class incompatible: stream classdesc serialVersionUID = 8039899368627821466, local class serialVersionUID = 2883723585939036164" />
@@ -50,12 +51,11 @@
       <item value="QM PRECAUTION MSG USERS" />
       <item value="整改单位" />
       <item value="Correct" />
-      <item value="find Correct Unit" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="598" />
-        <entry key="ENGLISH" value="599" />
+        <entry key="CHINESE" value="599" />
+        <entry key="ENGLISH" value="600" />
         <entry key="BULGARIAN" value="2" />
         <entry key="PORTUGUESE" value="2" />
         <entry key="JAPANESE" value="1" />
