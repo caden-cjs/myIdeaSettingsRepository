@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="[2019-01-17 09:39:15,044] Artifact SEMS1:war exploded: Error during artifact deployment. See server log for details." />
+      <item value="严重: Context [/SEMS1] startup failed due to previous errors" />
       <item value="operate" />
       <item value="operat" />
       <item value="operating" />
@@ -49,13 +51,11 @@
       <item value="org.activiti.engine.ActivitiException: Query return 2 results instead of max 1" />
       <item value="Cause: java.lang.NumberFormatException: For input string: &quot;Y&quot;" />
       <item value="权限" />
-      <item value="is Debug Enabled" />
-      <item value="get Query String" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="616" />
-        <entry key="ENGLISH" value="617" />
+        <entry key="CHINESE" value="617" />
+        <entry key="ENGLISH" value="619" />
         <entry key="BULGARIAN" value="2" />
         <entry key="ROMANIAN" value="2" />
         <entry key="PORTUGUESE" value="2" />
