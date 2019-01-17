@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="多个" />
+      <item value="Mutil" />
       <item value="You are using an offline license." />
       <item value="at least 524 redeploys/restarts saving you about 4.4 hours." />
       <item value="at least 1855 redeploys/restarts saving you about 15.5 hours." />
@@ -49,13 +51,12 @@
       <item value="nested exception is org.apache.ibatis.builder.BuilderException: The expression 'userId' evaluated to" />
       <item value="ested exception is org.apache.ibatis.builder.BuilderException: The expression 'userId' evaluated to a null value." />
       <item value="Invalid bound statement (not found)" />
-      <item value="java.lang.NumberFormatException: For input string: &quot;test&quot;" />
-      <item value="The expression 'qmCheckMethodS' evaluated to a null value." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="621" />
-        <entry key="ENGLISH" value="623" />
+        <entry key="CHINESE" value="624" />
+        <entry key="ENGLISH" value="624" />
+        <entry key="BASQUE" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="ROMANIAN" value="2" />
         <entry key="PORTUGUESE" value="2" />
