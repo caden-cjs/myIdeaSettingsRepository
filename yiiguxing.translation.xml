@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="unique" />
+      <item value="DESCRIPTION" />
+      <item value="ROL SHORTDESCRIPTION" />
       <item value="operate" />
       <item value="java.lang.ClassCastException: com.alibaba.fastjson.JSONArray cannot be cast to com.alibaba.fastjson.JSONObject" />
       <item value="java.lang.IllegalArgumentException: class com.eastern.mujup.qcmanager.checklist.entity.QmCheckPointResultVo declares multiple JSON fields named qmCreatePerson" />
@@ -48,20 +51,18 @@
       <item value="Caused by: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'sqlSessionFactory' defined in URL [file:/D:/WorkSpaces/Idea/SEMS1/source_mvc/SEMS1/bin/applicationContext.xml]: Invocation of init method failed; nested exception is org.springframework.core.NestedIOException: Failed to parse mapping resource: 'file [D:\WorkSpaces\Idea\SEMS1\source_mvc\SEMS1\bin\com\eastern\mujup\filemanager\notice\mapping\QmSigningFeedbackTSelfMapper.xml]'; nested exception is org.apache.ibatis.builder.BuilderException: Error parsing Mapper XML. Cause: org.apache.ibatis.builder.BuilderException: Error resolving class. Cause: org.apache.ibatis.type.TypeException: Could not resolve type alias 'void'. Cause: java.lang.ClassNotFoundException: Cannot find class: void" />
       <item value="Loaded classes are up to date. Nothing to reload." />
       <item value="[2019-01-10 03:03:34,314] Artifact SEMS1:war exploded: Error during artifact deployment. See server log for details." />
-      <item value="org.apache.ibatis.binding.BindingException: Invalid bound statement (not found): com.eastern.mujup.filemanager.notice.dao.QmSigningFeedbackTMapper.addNewPendingSignAndFeedback" />
-      <item value="queryno Receipt" />
-      <item value="并且" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="630" />
-        <entry key="ENGLISH" value="631" />
+        <entry key="CHINESE" value="632" />
+        <entry key="ENGLISH" value="633" />
         <entry key="BASQUE" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="ROMANIAN" value="2" />
         <entry key="PORTUGUESE" value="2" />
         <entry key="JAPANESE" value="1" />
         <entry key="GREEK" value="1" />
+        <entry key="ITALIAN" value="1" />
       </map>
     </option>
   </component>
