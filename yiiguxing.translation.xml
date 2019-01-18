@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Constants" />
       <item value="### SQL: select count(*) from (SELECT US.USR_ID,US.USR_ENABLED,US.USR_NAME,US.USR_LOGINNAME FROM QM_USER_T US,QM_ORG_T OG ,(SELECT UT.USR_ID FROM QM_USER_T UT,QM_ROLE_T RT,QM_USR_ROLE_T URT WHERE URT.USR_ID=UT.USR_ID AND URT.ROL_ID=RT.ROL_ID AND URT.IS_ASSOCIATE = 1 AND RT.ROL_LONGDESCRIPTION LIKE '%分部质控专员%' or '%分部质控专员%' ) T WHERE US.ORG_ID = OG.ORG_ID AND US.USR_LOGINNAME !='admin' AND T.USR_ID = US.USR_ID) tmp_count" />
       <item value="invalid comparison: java.util.Arrays$ArrayList and java.lang.String" />
       <item value="### Error querying database. Cause: java.lang.IllegalArgumentException: invalid comparison: java.util.Arrays$ArrayList and java.lang.String" />
@@ -50,12 +51,11 @@
       <item value="org.springframework.data.redis.serializer.SerializationException: Cannot deserialize; nested exception is org.springframework.core.serializer.support.SerializationFailedException: Failed to deserialize payload. Is the byte array a result of corresponding serialization for DefaultDeserializer?; nested exception is java.io.InvalidClassException: com.eastern.mujup.system.user.entity.UserT; local class incompatible: stream classdesc serialVersionUID = 8039899368627821466, local class serialVersionUID = 2883723585939036164" />
       <item value="Cannot deserialize; nested exception is org.springframework.core.serializer.support.SerializationFailedException: Failed to deserialize payload. Is the byte array a result of corresponding serialization for DefaultDeserializer?; nested exception is java.io.InvalidClassException: com.eastern.mujup.system.user.entity.UserT; local class incompatible: stream classdesc serialVersionUID = 8039899368627821466, local class serialVersionUID = 2883723585939036164" />
       <item value="2019-01-15 14:29:40 JRebel: Found offline lease from local storage.. executing JRebel with offline licensing." />
-      <item value="java.util.Concurrent Modification Exception&#10;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="641" />
-        <entry key="ENGLISH" value="643" />
+        <entry key="CHINESE" value="642" />
+        <entry key="ENGLISH" value="644" />
         <entry key="BASQUE" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="ROMANIAN" value="2" />
