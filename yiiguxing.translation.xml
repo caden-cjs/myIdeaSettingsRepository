@@ -1,6 +1,16 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="### SQL: select count(*) from (SELECT US.USR_ID,US.USR_ENABLED,US.USR_NAME,US.USR_LOGINNAME FROM QM_USER_T US,QM_ORG_T OG ,(SELECT UT.USR_ID FROM QM_USER_T UT,QM_ROLE_T RT,QM_USR_ROLE_T URT WHERE URT.USR_ID=UT.USR_ID AND URT.ROL_ID=RT.ROL_ID AND URT.IS_ASSOCIATE = 1 AND RT.ROL_LONGDESCRIPTION LIKE '%分部质控专员%' or '%分部质控专员%' ) T WHERE US.ORG_ID = OG.ORG_ID AND US.USR_LOGINNAME !='admin' AND T.USR_ID = US.USR_ID) tmp_count" />
+      <item value="invalid comparison: java.util.Arrays$ArrayList and java.lang.String" />
+      <item value="### Error querying database. Cause: java.lang.IllegalArgumentException: invalid comparison: java.util.Arrays$ArrayList and java.lang.String" />
+      <item value="Caused by: org.apache.ibatis.builder.BuilderException: Error evaluating expression 'roleName'. Return value (分部质控专员,分部质控专员) was not iterable." />
+      <item value="Return value (分部质控专员) was not iterable." />
+      <item value="No Such Property Exception" />
+      <item value="org.mybatis.spring.MyBatisSystemException: nested exception is org.apache.ibatis.builder.BuilderException: Error evaluating expression 'roleName != null and roleName.length &gt;0'. Cause: org.apache.ibatis.ognl.NoSuchPropertyException: java.lang.String.length" />
+      <item value="Cause: org.apache.ibatis.ognl.NoSuchPropertyException: java.lang.String.length" />
+      <item value="org.mybatis.spring.MyBatisSystemException: nested exception is org.apache.ibatis.builder.BuilderException: Error evaluating expression 'roleName != null and roleName.length&gt;0'. Cause: org.apache.ibatis.ognl.NoSuchPropertyException: java.lang.String.length" />
+      <item value="Caused by: org.apache.ibatis.binding.BindingException: Parameter 'roleName' not found. Available parameters are [set, param1]" />
       <item value="org.apache.ibatis.builder.IncompleteElementException: Could not find result map com.eastern.mujup.system.role.dao.RoleVOMapper.String" />
       <item value="unique" />
       <item value="DESCRIPTION" />
@@ -41,21 +51,11 @@
       <item value="Cannot deserialize; nested exception is org.springframework.core.serializer.support.SerializationFailedException: Failed to deserialize payload. Is the byte array a result of corresponding serialization for DefaultDeserializer?; nested exception is java.io.InvalidClassException: com.eastern.mujup.system.user.entity.UserT; local class incompatible: stream classdesc serialVersionUID = 8039899368627821466, local class serialVersionUID = 2883723585939036164" />
       <item value="2019-01-15 14:29:40 JRebel: Found offline lease from local storage.. executing JRebel with offline licensing." />
       <item value="java.util.Concurrent Modification Exception&#10;" />
-      <item value="Concurrent Modification Exception" />
-      <item value="select PK_YP_ID, FK_CHECKED_ID, YP_IMP_UNIT, YP_TIME, YP_CHECK_TYPE, YP_CHECK_CONTENT, YP_STATUS, YP_COUNT, YP_DEL_STATUS, QM_CREATE_PERSON, QM_CREATE_TIME, QM_UPDATE_PERSON, QM_UPDATE_TIME, YP_NUMBER, REMARK, t2.USR_NAME LAST_UPDATER from QM_YEAR_PLAN_T t1 left join SEMS1.QM_USER_T t2 on QM_CREATE_PERSON= t1.QM_CREATE_PERSON=t2.USR_ID where YP_DEL_STATUS='N'" />
-      <item value="检查部门" />
-      <item value="检查人" />
-      <item value="注解" />
-      <item value="记录日志" />
-      <item value="endorsement Name" />
-      <item value="begin case declare end exception exit for goto if loop mod null pragma raise return select update while with &lt;an identifier&gt; &lt;a double-quoted delimited-identifier&gt; &lt;a bind variable&gt; &lt;&lt; continue close current delete fetch lock insert open rollback savepoint set sql execute commit forall merge pipe purge json_exists json_value json_query json_object json_array" />
-      <item value="Caused by: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'sqlSessionFactory' defined in URL [file:/D:/WorkSpaces/Idea/SEMS1/source_mvc/SEMS1/bin/applicationContext.xml]: Invocation of init method failed; nested exception is org.springframework.core.NestedIOException: Failed to parse mapping resource: 'file [D:\WorkSpaces\Idea\SEMS1\source_mvc\SEMS1\bin\com\eastern\mujup\filemanager\notice\mapping\QmSigningFeedbackTSelfMapper.xml]'; nested exception is org.apache.ibatis.builder.BuilderException: Error parsing Mapper XML. Cause: org.apache.ibatis.builder.BuilderException: Error resolving class. Cause: org.apache.ibatis.type.TypeException: Could not resolve type alias 'void'. Cause: java.lang.ClassNotFoundException: Cannot find class: void" />
-      <item value="Loaded classes are up to date. Nothing to reload." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="633" />
-        <entry key="ENGLISH" value="634" />
+        <entry key="CHINESE" value="641" />
+        <entry key="ENGLISH" value="643" />
         <entry key="BASQUE" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="ROMANIAN" value="2" />
