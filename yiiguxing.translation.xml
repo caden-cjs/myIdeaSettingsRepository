@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="等待" />
       <item value="crack" />
       <item value="do Create And Send Correct Plan" />
       <item value="FLOW CORRECT VERIFY" />
@@ -50,11 +51,10 @@
       <item value="operat" />
       <item value="operating" />
       <item value="CORRECT" />
-      <item value="org.springframework.web.util.NestedServletException: Handler dispatch failed; nested exception is java.lang.AbstractMethodError: com.eastern.mujup.system.organization.service.impl.OrgServiceImpl$$M$_jr_2623A26F5DD778A6_4.queryShortOrgNew(Ljava/lang/Long;Ljava/lang/Long;)Ljava/util/List; at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:978) at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:897) at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:970) at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:872)" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="655" />
+        <entry key="CHINESE" value="656" />
         <entry key="ENGLISH" value="656" />
         <entry key="BASQUE" value="1" />
         <entry key="BULGARIAN" value="2" />
