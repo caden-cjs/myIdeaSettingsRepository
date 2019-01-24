@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="业务" />
       <item value="Global Exception Handler" />
       <item value="去重" />
       <item value="Duplicate Key Exception" />
@@ -15,7 +16,6 @@
       <item value="FLOW CORRECT VERIFY" />
       <item value="branch" />
       <item value="待办事项" />
-      <item value="业务" />
       <item value="assign Org Id" />
       <item value="ASSOCIATE" />
       <item value="IS ASSOCIATE" />
@@ -54,7 +54,7 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="661" />
+        <entry key="CHINESE" value="662" />
         <entry key="ENGLISH" value="662" />
         <entry key="BASQUE" value="1" />
         <entry key="BULGARIAN" value="2" />
