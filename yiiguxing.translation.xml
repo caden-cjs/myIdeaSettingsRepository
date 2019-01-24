@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="OPERATE_录入" />
+      <item value="评估" />
       <item value="下发" />
       <item value="业务" />
       <item value="Global Exception Handler" />
@@ -49,13 +51,11 @@
       <item value="审批" />
       <item value="modify" />
       <item value="OPERATE modify" />
-      <item value="多个" />
-      <item value="Mutil" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="663" />
-        <entry key="ENGLISH" value="663" />
+        <entry key="CHINESE" value="664" />
+        <entry key="ENGLISH" value="664" />
         <entry key="BASQUE" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="ROMANIAN" value="2" />
