@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="转发" />
+      <item value="find Point Result By Fk Cp Id" />
+      <item value="find Check By Code" />
+      <item value="return Check Columns" />
+      <item value="生成" />
       <item value="OPERATE_录入" />
       <item value="评估" />
       <item value="下发" />
@@ -46,16 +51,11 @@
       <item value="java.lang.ClassCastException: com.alibaba.fastjson.JSONArray cannot be cast to com.alibaba.fastjson.JSONObject" />
       <item value="java.lang.IllegalArgumentException: class com.eastern.mujup.qcmanager.checklist.entity.QmCheckPointResultVo declares multiple JSON fields named qmCreatePerson" />
       <item value="org.activiti.engine.ActivitiException: Query return 2 results instead of max 1" />
-      <item value="org.activiti.engine.ActivitiOptimisticLockingException: Execution[ id '1617554' ] - activity 'enterResultBranch - parent '1617550' was updated by another transaction concurrently" />
-      <item value="Attribute value must be constant" />
-      <item value="审批" />
-      <item value="modify" />
-      <item value="OPERATE modify" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="664" />
-        <entry key="ENGLISH" value="664" />
+        <entry key="CHINESE" value="668" />
+        <entry key="ENGLISH" value="668" />
         <entry key="BASQUE" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="ROMANIAN" value="2" />
