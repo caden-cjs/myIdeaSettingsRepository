@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="儿子" />
       <item value="转发" />
       <item value="find Point Result By Fk Cp Id" />
       <item value="find Check By Code" />
@@ -50,12 +51,11 @@
       <item value="operate" />
       <item value="java.lang.ClassCastException: com.alibaba.fastjson.JSONArray cannot be cast to com.alibaba.fastjson.JSONObject" />
       <item value="java.lang.IllegalArgumentException: class com.eastern.mujup.qcmanager.checklist.entity.QmCheckPointResultVo declares multiple JSON fields named qmCreatePerson" />
-      <item value="org.activiti.engine.ActivitiException: Query return 2 results instead of max 1" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="668" />
-        <entry key="ENGLISH" value="668" />
+        <entry key="CHINESE" value="669" />
+        <entry key="ENGLISH" value="669" />
         <entry key="BASQUE" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="ROMANIAN" value="2" />
