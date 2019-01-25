@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="定时任务" />
       <item value="processor" />
       <item value="Cannot rebase: You have unstaged changes. Please commit or stash them." />
       <item value="Array Index Out Of Bounds Exception" />
@@ -50,7 +51,6 @@
       <item value="org.apache.ibatis.builder.IncompleteElementException: Could not find result map com.eastern.mujup.system.role.dao.RoleVOMapper.String" />
       <item value="unique" />
       <item value="DESCRIPTION" />
-      <item value="ROL SHORTDESCRIPTION" />
     </histories>
     <option name="languageScores">
       <map>
