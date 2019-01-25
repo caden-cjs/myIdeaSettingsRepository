@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Cannot rebase: You have unstaged changes. Please commit or stash them." />
       <item value="Array Index Out Of Bounds Exception" />
       <item value="儿子" />
       <item value="转发" />
@@ -50,12 +51,11 @@
       <item value="DESCRIPTION" />
       <item value="ROL SHORTDESCRIPTION" />
       <item value="operate" />
-      <item value="java.lang.ClassCastException: com.alibaba.fastjson.JSONArray cannot be cast to com.alibaba.fastjson.JSONObject" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="669" />
-        <entry key="ENGLISH" value="670" />
+        <entry key="CHINESE" value="670" />
+        <entry key="ENGLISH" value="671" />
         <entry key="BASQUE" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="ROMANIAN" value="2" />
