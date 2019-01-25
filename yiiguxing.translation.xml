@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="java.net.ConnectException: Connection refused: connect" />
+      <item value="5 16:30:56,956 DEBUG [com.eastern.mujup.system.role.dao.RoleVOMapper.findRoleResource] - &lt;======&gt; Preparing: select * from QM_ROLE_RESOURCE_T where ROL_ID =? &gt;&#10;2019-01-25 16:30:56,956 DEBUG [com.eastern.mujup.system.role.dao.RoleVOMapper.findRoleResource] - &lt;======&gt; Parameters: 38(Long)&gt;&#10;2019-01-25 16:30:56,968 DEBUG [com.eastern.mujup.system.role.dao.RoleVOMapper.findRoleResource] - &lt;&lt;====== Total: 45&gt;&#10;2019-01-25 16:30:56,968 DEBUG [com.eastern.mujup.system.role.dao.RoleVOMapper.find] - &lt;&lt;==== Total: 1&gt;&#10;2019-01-25 16:30:56,976 DEBUG [com.eastern.mujup.system.user.dao.UserRoleMapper.queryAllUserRole] - &lt;&lt;== Total: 43&gt;&#10;2019-01-25 16:30:56,978 DEBUG [com.eastern.mujup.baseframe.common.util.StartUpServlet] - &lt;组织架构初始化完成&gt;&#10;2019-01-25 16:30:57,006 DEBUG [com.eastern.mujup.baseframe.common.util.StartUpServlet] - &lt;用户列表初始化完成&gt;&#10;2019-01-25 16:30:58 JRebel: Monitoring Spring bean definitions in 'D:\WorkSpaces\Idea\SEMS1\source_mvc\SEMS1\bin\mvc-servlet.xml'." />
       <item value="定时任务" />
       <item value="processor" />
       <item value="Cannot rebase: You have unstaged changes. Please commit or stash them." />
@@ -49,13 +51,11 @@
       <item value="org.mybatis.spring.MyBatisSystemException: nested exception is org.apache.ibatis.builder.BuilderException: Error evaluating expression 'roleName != null and roleName.length&gt;0'. Cause: org.apache.ibatis.ognl.NoSuchPropertyException: java.lang.String.length" />
       <item value="Caused by: org.apache.ibatis.binding.BindingException: Parameter 'roleName' not found. Available parameters are [set, param1]" />
       <item value="org.apache.ibatis.builder.IncompleteElementException: Could not find result map com.eastern.mujup.system.role.dao.RoleVOMapper.String" />
-      <item value="unique" />
-      <item value="DESCRIPTION" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="671" />
-        <entry key="ENGLISH" value="672" />
+        <entry key="CHINESE" value="672" />
+        <entry key="ENGLISH" value="674" />
         <entry key="BASQUE" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="ROMANIAN" value="2" />
