@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="转发" />
       <item value="zone" />
       <item value="cell" />
       <item value="findCrewInfoRtnMap webservice input:" />
@@ -11,7 +12,6 @@
       <item value="Cannot rebase: You have unstaged changes. Please commit or stash them." />
       <item value="Array Index Out Of Bounds Exception" />
       <item value="儿子" />
-      <item value="转发" />
       <item value="find Point Result By Fk Cp Id" />
       <item value="find Check By Code" />
       <item value="return Check Columns" />
@@ -54,7 +54,7 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="675" />
+        <entry key="CHINESE" value="676" />
         <entry key="ENGLISH" value="677" />
         <entry key="BASQUE" value="1" />
         <entry key="BULGARIAN" value="2" />
