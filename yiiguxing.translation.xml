@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="org.springframework.beans.factory.NoSuchBeanDefinitionException: No bean named 'shiroFilter' is defined" />
+      <item value="java.lang.IllegalArgumentException: Invalid 'log4jConfigLocation' parameter: class path resource [log4j.properties] cannot be resolved to URL because it does not exist" />
+      <item value="log 4 j Config Location" />
+      <item value="[2019-02-15 01:15:14,706] Artifact SEMS1:war exploded: Error during artifact deployment. See server log for details." />
+      <item value="严重: Error listenerStart" />
       <item value="Cause: java.sql.SQLException: ORA-08004: 序列 SEQ_S_ORG.NEXTVAL exceeds MAXVALUE 无法实例化" />
       <item value="org.apache.ibatis.binding.BindingException: Invalid bound statement (not found): com.eastern.mujup.qcmanager.checklist.dao.QmCheckUserDao.inserAll" />
       <item value="Create Correction List" />
@@ -46,16 +51,11 @@
       <item value="VALIDITY" />
       <item value="associate" />
       <item value="2019-01-21 14:15:37 JRebel: Found offline lease from local storage.. executing JRebel with offline licensing." />
-      <item value="fk Primary Sending Unit Ids" />
-      <item value="is Me Posted" />
-      <item value="Constants" />
-      <item value="### SQL: select count(*) from (SELECT US.USR_ID,US.USR_ENABLED,US.USR_NAME,US.USR_LOGINNAME FROM QM_USER_T US,QM_ORG_T OG ,(SELECT UT.USR_ID FROM QM_USER_T UT,QM_ROLE_T RT,QM_USR_ROLE_T URT WHERE URT.USR_ID=UT.USR_ID AND URT.ROL_ID=RT.ROL_ID AND URT.IS_ASSOCIATE = 1 AND RT.ROL_LONGDESCRIPTION LIKE '%分部质控专员%' or '%分部质控专员%' ) T WHERE US.ORG_ID = OG.ORG_ID AND US.USR_LOGINNAME !='admin' AND T.USR_ID = US.USR_ID) tmp_count" />
-      <item value="invalid comparison: java.util.Arrays$ArrayList and java.lang.String" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="683" />
-        <entry key="ENGLISH" value="683" />
+        <entry key="CHINESE" value="687" />
+        <entry key="ENGLISH" value="688" />
         <entry key="BASQUE" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="ROMANIAN" value="2" />
