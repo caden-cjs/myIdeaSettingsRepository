@@ -10,8 +10,8 @@
         <entry key="com.zeroturnaround.jrebel.intellij.autocompile.feature-seen" value="true" />
         <entry key="com.zeroturnaround.jrebel.intellij.plugin.old-agent-version" value="2018.1.6" />
         <entry key="com.zeroturnaround.jrebel.remoting.SyncOnBuild" value="false" />
-        <entry key="com.zeroturnaround.jrebel.update.LastKnownVersionOnUpdateSite" value="2018.2.5" />
-        <entry key="com.zeroturnaround.jrebel.update.UpdateNotificationCount" value="2" />
+        <entry key="com.zeroturnaround.jrebel.update.LastKnownVersionOnUpdateSite" value="2018.2.6" />
+        <entry key="com.zeroturnaround.jrebel.update.UpdateNotificationCount" value="1" />
       </map>
     </option>
     <option name="javaRebelPath" value="C:\Users\Caden\.jrebel\nightly_cache\201808240044\jrebel\jrebel.jar" />
