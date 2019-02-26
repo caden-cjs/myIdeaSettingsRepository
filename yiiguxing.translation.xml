@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Module" />
+      <item value="Rich Text" />
+      <item value="item富文本" />
+      <item value="Title" />
       <item value="主页" />
       <item value="录入检查结果" />
       <item value="org.apache.ibatis.type.TypeException: Could not set parameters for mapping: ParameterMapping{property='id', mode=IN, javaType=class java.lang.String, jdbcType=null, numericScale=null, resultMapId='null', jdbcTypeName='null', expression='null'}. Cause: org.apache.ibatis.type.TypeException: Error setting null for parameter #1 with JdbcType OTHER . Try setting a different JdbcType for this parameter or a different jdbcTypeForNull configuration property. Cause: java.sql.SQLException: 无效的列类型: 1111" />
@@ -47,15 +51,11 @@
       <item value="定时任务" />
       <item value="processor" />
       <item value="Cannot rebase: You have unstaged changes. Please commit or stash them." />
-      <item value="Array Index Out Of Bounds Exception" />
-      <item value="儿子" />
-      <item value="find Point Result By Fk Cp Id" />
-      <item value="find Check By Code" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="712" />
-        <entry key="ENGLISH" value="712" />
+        <entry key="CHINESE" value="713" />
+        <entry key="ENGLISH" value="714" />
         <entry key="BASQUE" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="ROMANIAN" value="3" />
