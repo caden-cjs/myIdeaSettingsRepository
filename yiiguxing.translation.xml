@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)" />
+      <item value="org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'checkLoginFilter': Unsatisfied dependency expressed through field 'userController'; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean found for dependency [com.eastern.mujup.system.user.controller.UserController]: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}" />
+      <item value="Repository" />
       <item value="No bean named 'UserController' is defined" />
       <item value="CLIENT IP" />
       <item value="初始化" />
@@ -48,14 +51,11 @@
       <item value="log 4 j Config Location" />
       <item value="[2019-02-15 01:15:14,706] Artifact SEMS1:war exploded: Error during artifact deployment. See server log for details." />
       <item value="严重: Error listenerStart" />
-      <item value="Cause: java.sql.SQLException: ORA-08004: 序列 SEQ_S_ORG.NEXTVAL exceeds MAXVALUE 无法实例化" />
-      <item value="org.apache.ibatis.binding.BindingException: Invalid bound statement (not found): com.eastern.mujup.qcmanager.checklist.dao.QmCheckUserDao.inserAll" />
-      <item value="Create Correction List" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="723" />
-        <entry key="ENGLISH" value="724" />
+        <entry key="CHINESE" value="726" />
+        <entry key="ENGLISH" value="727" />
         <entry key="BASQUE" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="ROMANIAN" value="3" />
