@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="ASSOCIATE" />
+      <item value="IS ASSOCIATE" />
       <item value="Non-parseable settings D:\JavaTools\apache-maven-3.5.4\conf\settings.xml: in comment after two dashes (--) next character must be &gt; not \n (position: START_TAG seen ...&lt;/port&gt;\n &lt;!--\n... @109:1) @ D:\JavaTools\apache-maven-3.5.4\conf\settings.xml, line 109, column 1&#10;[WARNING] Unrecognised tag: 'server' (position: START_TAG seen ...&lt;server&gt;\n\t\t&lt;server&gt;... @42:11) @ E:\settings_eastern.xml, line 42, column 11" />
       <item value="Unable to import maven project: See logs for details" />
       <item value="Failed to execute goal on project SEMS1: Could not resolve dependencies for project com.eastern.mujup:SEMS1:war:1.0.0: Failed to collect dependencies at com.itextpdf:itextpdf:jar:5.5.12: Failed to read artifact descriptor for com.itextpdf:itextpdf:jar:5.5.12: Could not transfer artifact com.itextpdf:itextpdf:pom:5.5.12 from/to mu_3rd_Repository (http://172.28.38.181:8081/nexus/content/repositories/primeton_3rd): Connect to 172.31.1.246:8080 [/172.31.1.246] failed: Connection timed out: connect -&gt; [Help 1]" />
@@ -49,13 +51,11 @@
       <item value="Precaution" />
       <item value="Msg Users" />
       <item value="produces" />
-      <item value="2019-02-21 11:05:20 JRebel: Monitoring Spring bean definitions in 'D:\WorkSpaces\Idea\SEMS1\source_mvc\SEMS1\bin\mvc-servlet.xml'." />
-      <item value="Performance Management" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="756" />
-        <entry key="ENGLISH" value="758" />
+        <entry key="CHINESE" value="758" />
+        <entry key="ENGLISH" value="760" />
         <entry key="BASQUE" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="ROMANIAN" value="3" />
