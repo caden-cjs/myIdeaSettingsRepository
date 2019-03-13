@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'checkLoginFilter': Unsatisfied dependency expressed through field 'userController'; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean found for dependency [com.eastern.mujup.system.user.controller.UserController]: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}" />
       <item value="ASSOCIATE" />
       <item value="IS ASSOCIATE" />
       <item value="Non-parseable settings D:\JavaTools\apache-maven-3.5.4\conf\settings.xml: in comment after two dashes (--) next character must be &gt; not \n (position: START_TAG seen ...&lt;/port&gt;\n &lt;!--\n... @109:1) @ D:\JavaTools\apache-maven-3.5.4\conf\settings.xml, line 109, column 1&#10;[WARNING] Unrecognised tag: 'server' (position: START_TAG seen ...&lt;server&gt;\n\t\t&lt;server&gt;... @42:11) @ E:\settings_eastern.xml, line 42, column 11" />
@@ -27,7 +28,6 @@
       <item value="统计报表" />
       <item value="do Set Task Candidates Or Assignee" />
       <item value="Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)" />
-      <item value="org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'checkLoginFilter': Unsatisfied dependency expressed through field 'userController'; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean found for dependency [com.eastern.mujup.system.user.controller.UserController]: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}" />
       <item value="Repository" />
       <item value="No bean named 'UserController' is defined" />
       <item value="CLIENT IP" />
@@ -54,8 +54,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="758" />
-        <entry key="ENGLISH" value="760" />
+        <entry key="CHINESE" value="759" />
+        <entry key="ENGLISH" value="761" />
         <entry key="BASQUE" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="ROMANIAN" value="3" />
