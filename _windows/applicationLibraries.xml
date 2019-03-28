@@ -109,11 +109,21 @@
         <root url="jar://D:/JavaTools/tomcat/apache-tomcat-7.0.23/lib/flyingnet/zml.jar!/" />
         <root url="jar://D:/JavaTools/tomcat/apache-tomcat-7.0.23/lib/flyingnet/zul.jar!/" />
         <root url="jar://D:/JavaTools/tomcat/apache-tomcat-7.0.23/lib/flyingnet/zweb.jar!/" />
+        <root url="jar://D:/WorkSpaces/FlightNet/Library/activemq/geronimo-j2ee-management_1.1_spec-1.0.1.jar!/" />
+        <root url="jar://D:/WorkSpaces/FlightNet/Library/activemq/hawtbuf-1.11.jar!/" />
       </CLASSES>
       <JAVADOC />
       <SOURCES>
         <root url="jar://D:/JavaTools/tomcat/apache-tomcat-7.0.23/lib/flyingnet/com.ibm.mq.jmqi.jar!/" />
       </SOURCES>
+    </library>
+    <library name="framework-core-bin2.0">
+      <CLASSES>
+        <root url="jar://D:/JavaTools/tomcat/apache-tomcat-7.0.23/webapps/crs/WEB-INF/lib/framework-core-bin2.0.jar!/" />
+        <root url="jar://D:/JavaTools/tomcat/apache-tomcat-7.0.23/webapps/crs/WEB-INF/lib/sso-client-bin.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
     </library>
   </component>
 </application>
