@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="java.lang.ClassNotFoundException: com.cares.flyingnet.dc.common.SystemContextLoaderListener" />
+      <item value="严重: Context [/crs] startup failed due to previous errors" />
+      <item value="反馈" />
+      <item value="签收权限" />
+      <item value="MINISTER PURVIEW" />
       <item value="Deploying web application directory D:\JavaTools\tomcat\apache-tomcat-7.0.23\webapps\ROOT" />
       <item value="org.apache.catalina.loader.WebappClassLoader clearReferencesThreads" />
       <item value="The web application [/crs] registered the JDBC driver [oracle.jdbc.OracleDriver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered." />
@@ -46,16 +51,11 @@
       <item value="version" />
       <item value="Default" />
       <item value="Unknown" />
-      <item value="信息: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time." />
-      <item value="java.rmi.server.ExportException: Port already in use: 1099; nested exception is:" />
-      <item value="错误: 代理抛出异常错误: java.rmi.server.ExportException: Port already in use: 1099; nested exception is:" />
-      <item value="SURVERY" />
-      <item value="Flow AC SURVERY" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="785" />
-        <entry key="ENGLISH" value="786" />
+        <entry key="CHINESE" value="790" />
+        <entry key="ENGLISH" value="792" />
         <entry key="BASQUE" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="ROMANIAN" value="3" />
