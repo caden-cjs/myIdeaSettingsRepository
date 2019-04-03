@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="ROLE" />
       <item value="build Session User" />
       <item value="java.lang.ClassNotFoundException: com.cares.flyingnet.dc.common.SystemContextLoaderListener" />
       <item value="严重: Context [/crs] startup failed due to previous errors" />
@@ -50,12 +51,11 @@
       <item value="scanned" />
       <item value="will" />
       <item value="version" />
-      <item value="Default" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="791" />
-        <entry key="ENGLISH" value="793" />
+        <entry key="CHINESE" value="792" />
+        <entry key="ENGLISH" value="794" />
         <entry key="BASQUE" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="ROMANIAN" value="3" />
