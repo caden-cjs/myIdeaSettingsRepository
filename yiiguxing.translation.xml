@@ -1,8 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="ROLE" />
-      <item value="build Session User" />
+      <item value="Caused by: com.ibatis.common.beans.ProbeException: There is no READABLE property named 'lastModifier ' in class 'com.cares.flyingnet.secu.ipadRealName.entity.SecuIpadRealNameLog'" />
+      <item value="工号" />
+      <item value="Secu Ipad Real Name" />
+      <item value="secu Ipad Real Name Service" />
+      <item value="org Code Model" />
       <item value="java.lang.ClassNotFoundException: com.cares.flyingnet.dc.common.SystemContextLoaderListener" />
       <item value="严重: Context [/crs] startup failed due to previous errors" />
       <item value="反馈" />
@@ -48,14 +51,11 @@
       <item value="Class Not Found Exception" />
       <item value="Caused by: org.apache.ibatis.builder.BuilderException: Error resolving class. Cause: org.apache.ibatis.type.TypeException: Could not resolve type alias 'com.eastern.mujup.homepage.personinfo.entity.QmMiddlePersonInfoTVo'. Cause: java.lang.ClassNotFoundException: Cannot find class: com.eastern.mujup.homepage.personinfo.entity.QmMiddlePersonInfoTVo" />
       <item value="contained" />
-      <item value="scanned" />
-      <item value="will" />
-      <item value="version" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="792" />
-        <entry key="ENGLISH" value="794" />
+        <entry key="CHINESE" value="794" />
+        <entry key="ENGLISH" value="795" />
         <entry key="BASQUE" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="ROMANIAN" value="3" />
