@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Non-resolvable parent POM for com.caden:chapter1:0.0.1-SNAPSHOT: Could not transfer artifact org.springframework.boot:spring-boot-starter-parent:pom:2.1.4.RELEASE from/to alimaven (http://maven.aliyun.com/nexus/content/groups/public/): Connect to maven.aliyun.com:80 [maven.aliyun.com/59.110.251.12, maven.aliyun.com/182.92.29.54, maven.aliyun.com/59.110.251.9, maven.aliyun.com/59.110.251.10, maven.aliyun.com/59.110.251.4, maven.aliyun.com/59.110.251.11, maven.aliyun.com/182.92.29.40, maven.aliyun.com/182.92.29.16, maven.aliyun.com/182.92.29.53, maven.aliyun.com/182.92.29.13] failed: Connection refused: connect and 'parent.relativePath' points at no local POM @ line 5, column 10 -&gt; [Help 2]" />
+      <item value="The build could not read 1 projec" />
+      <item value="Some problems were encountered while processing the POMs:" />
       <item value="Rest Controller" />
       <item value="acount Num" />
       <item value="agerate" />
@@ -48,14 +51,11 @@
       <item value="org.apache.shiro.UnavailableSecurityManagerException: No SecurityManager accessible to the calling code, either bound to the org.apache.shiro.util.ThreadContext or as a vm static singleton. This is an invalid application configuration." />
       <item value="org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'checkLoginFilter': Unsatisfied dependency expressed through field 'userController'; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean found for dependency [com.eastern.mujup.system.user.controller.UserController]: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}" />
       <item value="ASSOCIATE" />
-      <item value="IS ASSOCIATE" />
-      <item value="Non-parseable settings D:\JavaTools\apache-maven-3.5.4\conf\settings.xml: in comment after two dashes (--) next character must be &gt; not \n (position: START_TAG seen ...&lt;/port&gt;\n &lt;!--\n... @109:1) @ D:\JavaTools\apache-maven-3.5.4\conf\settings.xml, line 109, column 1&#10;[WARNING] Unrecognised tag: 'server' (position: START_TAG seen ...&lt;server&gt;\n\t\t&lt;server&gt;... @42:11) @ E:\settings_eastern.xml, line 42, column 11" />
-      <item value="Unable to import maven project: See logs for details" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="798" />
-        <entry key="ENGLISH" value="799" />
+        <entry key="CHINESE" value="801" />
+        <entry key="ENGLISH" value="802" />
         <entry key="BASQUE" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="GERMAN" value="1" />
