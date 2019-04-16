@@ -1,6 +1,6 @@
 <application>
   <component name="libraryTable">
-    <library name="activemq-core-5.5.1">
+    <library name="flyLib">
       <CLASSES>
         <root url="jar://E:/lib/activemq-core-5.5.1.jar!/" />
         <root url="jar://E:/lib/activemq-spring-5.5.1.jar!/" />
@@ -84,7 +84,6 @@
         <root url="jar://E:/lib/spring-security-core-2.0.4.jar!/" />
         <root url="jar://E:/lib/spring-security-core-tiger-2.0.4.jar!/" />
         <root url="jar://E:/lib/spring-security-taglibs-2.0.4.jar!/" />
-        <root url="jar://E:/lib/spring-test.jar!/" />
         <root url="jar://E:/lib/spring.jar!/" />
         <root url="jar://E:/lib/sso-client-bin.jar!/" />
         <root url="jar://E:/lib/standard.jar!/" />
