@@ -1,6 +1,17 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Non-resolvable parent POM for com.caden:chapter1:0.0.1-SNAPSHOT: Could not transfer artifact org.springframework.boot:spring-boot-starter-parent:pom:2.1.4.RELEASE from/to alimaven (http://maven.aliyun.com/nexus/content/groups/public/): Connect to maven.aliyun.com:80 [maven.aliyun.com/59.110.251.12, maven.aliyun.com/182.92.29.54, maven.aliyun.com/59.110.251.9, maven.aliyun.com/59.110.251.10, maven.aliyun.com/59.110.251.4, maven.aliyun.com/59.110.251.11, maven.aliyun.com/182.92.29.40, maven.aliyun.com/182.92.29.16, maven.aliyun.com/182.92.29.53, maven.aliyun.com/182.92.29.13] failed: Connection refused: connect and 'parent.relativePath' points at no local POM @ line 5, column 10 -&gt; [Help 2]" />
+      <item value="The build could not read 1 projec" />
+      <item value="Some problems were encountered while processing the POMs:" />
+      <item value="Rest Controller" />
+      <item value="acount Num" />
+      <item value="agerate" />
+      <item value="usa gerate" />
+      <item value="usagerate" />
+      <item value="[2019-04-11 09:57:38,781] Artifact SEMS1:war exploded: Error during artifact deployment. See server log for details." />
+      <item value="11-Apr-2019 09:55:10.253 严重 [http-nio-8080-exec-1] org.apache.catalina.core.AprLifecycleListener.init An incompatible version [1.2.8] of the APR based Apache Tomcat Native library is installed, while Tomcat requires version [1.2.14]" />
+      <item value="with Initial" />
       <item value="Caused by: com.ibatis.common.beans.ProbeException: There is no READABLE property named 'lastModifier ' in class 'com.cares.flyingnet.secu.ipadRealName.entity.SecuIpadRealNameLog'" />
       <item value="工号" />
       <item value="Secu Ipad Real Name" />
@@ -40,27 +51,20 @@
       <item value="org.apache.shiro.UnavailableSecurityManagerException: No SecurityManager accessible to the calling code, either bound to the org.apache.shiro.util.ThreadContext or as a vm static singleton. This is an invalid application configuration." />
       <item value="org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'checkLoginFilter': Unsatisfied dependency expressed through field 'userController'; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean found for dependency [com.eastern.mujup.system.user.controller.UserController]: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}" />
       <item value="ASSOCIATE" />
-      <item value="IS ASSOCIATE" />
-      <item value="Non-parseable settings D:\JavaTools\apache-maven-3.5.4\conf\settings.xml: in comment after two dashes (--) next character must be &gt; not \n (position: START_TAG seen ...&lt;/port&gt;\n &lt;!--\n... @109:1) @ D:\JavaTools\apache-maven-3.5.4\conf\settings.xml, line 109, column 1&#10;[WARNING] Unrecognised tag: 'server' (position: START_TAG seen ...&lt;server&gt;\n\t\t&lt;server&gt;... @42:11) @ E:\settings_eastern.xml, line 42, column 11" />
-      <item value="Unable to import maven project: See logs for details" />
-      <item value="Failed to execute goal on project SEMS1: Could not resolve dependencies for project com.eastern.mujup:SEMS1:war:1.0.0: Failed to collect dependencies at com.itextpdf:itextpdf:jar:5.5.12: Failed to read artifact descriptor for com.itextpdf:itextpdf:jar:5.5.12: Could not transfer artifact com.itextpdf:itextpdf:pom:5.5.12 from/to mu_3rd_Repository (http://172.28.38.181:8081/nexus/content/repositories/primeton_3rd): Connect to 172.31.1.246:8080 [/172.31.1.246] failed: Connection timed out: connect -&gt; [Help 1]" />
-      <item value="finished" />
-      <item value="finish" />
-      <item value="definitions" />
-      <item value="Caused by: java.lang.ClassNotFoundException: Cannot find class: com.eastern.mujup.homepage.personinfo.entity.QmMiddlePersonInfoTVo" />
-      <item value="Class Not Found Exception" />
-      <item value="Caused by: org.apache.ibatis.builder.BuilderException: Error resolving class. Cause: org.apache.ibatis.type.TypeException: Could not resolve type alias 'com.eastern.mujup.homepage.personinfo.entity.QmMiddlePersonInfoTVo'. Cause: java.lang.ClassNotFoundException: Cannot find class: com.eastern.mujup.homepage.personinfo.entity.QmMiddlePersonInfoTVo" />
-      <item value="contained" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="794" />
-        <entry key="ENGLISH" value="795" />
+        <entry key="CHINESE" value="801" />
+        <entry key="ENGLISH" value="802" />
         <entry key="BASQUE" value="1" />
         <entry key="BULGARIAN" value="2" />
+        <entry key="GERMAN" value="1" />
+        <entry key="FRENCH" value="1" />
+        <entry key="LATIN" value="1" />
         <entry key="ROMANIAN" value="3" />
         <entry key="PORTUGUESE" value="2" />
         <entry key="JAPANESE" value="1" />
+        <entry key="SWEDISH" value="1" />
         <entry key="GREEK" value="1" />
         <entry key="ITALIAN" value="1" />
       </map>
