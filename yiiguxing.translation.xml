@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Correct Deadline" />
+      <item value="deadline" />
+      <item value="期限" />
+      <item value="整改期限" />
       <item value="Non-resolvable parent POM for com.caden:chapter1:0.0.1-SNAPSHOT: Could not transfer artifact org.springframework.boot:spring-boot-starter-parent:pom:2.1.4.RELEASE from/to alimaven (http://maven.aliyun.com/nexus/content/groups/public/): Connect to maven.aliyun.com:80 [maven.aliyun.com/59.110.251.12, maven.aliyun.com/182.92.29.54, maven.aliyun.com/59.110.251.9, maven.aliyun.com/59.110.251.10, maven.aliyun.com/59.110.251.4, maven.aliyun.com/59.110.251.11, maven.aliyun.com/182.92.29.40, maven.aliyun.com/182.92.29.16, maven.aliyun.com/182.92.29.53, maven.aliyun.com/182.92.29.13] failed: Connection refused: connect and 'parent.relativePath' points at no local POM @ line 5, column 10 -&gt; [Help 2]" />
       <item value="The build could not read 1 projec" />
       <item value="Some problems were encountered while processing the POMs:" />
@@ -47,15 +51,11 @@
       <item value="FK RELEASE PEOPLE" />
       <item value="发起人" />
       <item value="发起时间" />
-      <item value="Username Password Token" />
-      <item value="org.apache.shiro.UnavailableSecurityManagerException: No SecurityManager accessible to the calling code, either bound to the org.apache.shiro.util.ThreadContext or as a vm static singleton. This is an invalid application configuration." />
-      <item value="org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'checkLoginFilter': Unsatisfied dependency expressed through field 'userController'; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean found for dependency [com.eastern.mujup.system.user.controller.UserController]: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}" />
-      <item value="ASSOCIATE" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="801" />
-        <entry key="ENGLISH" value="802" />
+        <entry key="CHINESE" value="804" />
+        <entry key="ENGLISH" value="805" />
         <entry key="BASQUE" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="GERMAN" value="1" />
