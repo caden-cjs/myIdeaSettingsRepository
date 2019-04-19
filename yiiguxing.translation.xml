@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Initializing c3p0 pool... com.mchange.v2.c3p0.ComboPooledDataSource [ acquireIncrement -&gt; 3, acquireRetryAttempts -&gt; 30, acquireRetryDelay -&gt; 1000, autoCommitOnClose -&gt; false, automaticTestTable -&gt; null, breakAfterAcquireFailure -&gt; false, checkoutTimeout -&gt; 0, connectionCustomizerClassName -&gt; null, connectionTesterClassName -&gt; com.mchange.v2.c3p0.impl.DefaultConnectionTester, contextClassLoaderSource -&gt; caller, dataSourceName -&gt; 1bqwff8a2eiqycvhsbj7t|6578e964, debugUnreturnedConnectionStackTraces -&gt; false, description -&gt; null, driverClass -&gt; oracle.jdbc.driver.OracleDriver, extensions -&gt; {}, factoryClassLocation -&gt; null, forceIgnoreUnresolvedTransactions -&gt; false, forceUseNamedDriverClass -&gt; false, identityToken -&gt; 1bqwff8a2eiqycvhsbj7t|6578e964, idleConnectionTestPeriod -&gt; 60, initialPoolSize -&gt; 15, jdbcUrl -&gt; jdbc:oracle:thin:@172.31.2.92:1521:F3T, maxAdministrativeTaskTime -&gt; 0, maxConnectionAge -&gt; 0, maxIdleTime -&gt; 60, maxIdleTimeExcessConnections -&gt; 0, maxPoolSize -&gt; 30, maxStatements -&gt; 0, maxStatementsPerConnection -&gt; 100, minPoolSize -&gt; 1, numHelperThreads -&gt; 3, preferredTestQuery -&gt; null, privilegeSpawnedThreads -&gt; false, properties -&gt; {user=******, password=******}, propertyCycle -&gt; 0, statementCacheNumDeferredCloseThreads -&gt; 0, testConnectionOnCheckin -&gt; false, testConnectionOnCheckout -&gt; false, unreturnedConnectionTimeout -&gt; 0, userOverrides -&gt; {}, usesTraditionalReflectiveProxies -&gt; false ]&#10;2019-04-19 14:43:06 INFO [org.hibernate.cfg.SettingsFactory] - Database -&gt;" />
+      <item value="name : Oracle version : Oracle Database 10g Enterprise Edition Release 10.2.0.4.0 - 64bit Production&#10;With the Partitioning, OLAP, Data Mining and Real Application Testing options major : 10 minor : 2" />
       <item value="秒" />
       <item value="timer Synchronization" />
       <item value="定时器同步" />
@@ -49,13 +51,11 @@
       <item value="Waiting for server connection to start artifact deployment..." />
       <item value="find Crew Info Rtn Map" />
       <item value="Add Soap Header" />
-      <item value="Abstract Soap Interceptor" />
-      <item value="分数" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="815" />
-        <entry key="ENGLISH" value="815" />
+        <entry key="CHINESE" value="816" />
+        <entry key="ENGLISH" value="817" />
         <entry key="BASQUE" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="GERMAN" value="1" />
