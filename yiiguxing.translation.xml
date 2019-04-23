@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="ERROR [Druid-ConnectionPool-Create-98839935] (DruidDataSource.java:1971) - create connection error, url: jdbc:oracle:thin:@172.31.2.92:1521:F3T, errorCode 12519, state 66000&#10;java.sql.SQLException: Listener refused the connection with the following error:&#10;ORA-12519, TNS:no appropriate service handler found" />
       <item value="query Flight Plan Submit Tab Detail" />
       <item value="是否逾期" />
       <item value="淇℃伅: JSR 356 WebSocket (Java WebSocket 1.1) support is not available when running on Java 6. To suppress this message, run Tomcat on Java 7, remove the WebSocket JARs from $CATALINA_HOME/lib or add the WebSocket JARs to the tomcat.util.scan.DefaultJarScanner.jarsToSkip property in $CATALINA_BASE/conf/catalina.properties. Note that the deprecated Tomcat 7 WebSocket API will be available." />
@@ -50,12 +51,11 @@
       <item value="FK RELEASE PEOPLE" />
       <item value="发起人" />
       <item value="发起时间" />
-      <item value="Username Password Token" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="803" />
-        <entry key="ENGLISH" value="804" />
+        <entry key="CHINESE" value="805" />
+        <entry key="ENGLISH" value="806" />
         <entry key="BASQUE" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="GERMAN" value="1" />
